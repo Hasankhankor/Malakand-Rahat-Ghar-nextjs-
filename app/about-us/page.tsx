@@ -1,3 +1,5 @@
+"use client";
+
 import { useTranslation } from "@/components/theme-provider";
 
 export default function AboutUsPage() {
